@@ -13,7 +13,7 @@ This model contains :
 * Modelling by Genre & Type
 
 ## Warning!!
-The dataset in this model contains **NSFW** genres and titles. So think twice and say **Istighfar** before you search **NSFW** anime titles.
+The dataset in this model contains **NSFW** genres and titles. So think twice and say **istighfar** before you search **NSFW** anime titles.
 
 ## Dataset
 The original source of this dataset is from :
